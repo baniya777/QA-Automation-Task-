@@ -54,7 +54,8 @@ An automated test suite built with **Selenium WebDriver** and **Python** to vali
 - Add the Sauce Labs Backpack to the cart
 - Click the cart icon to navigate to the cart page
 - Click the **Checkout** button
-- **Expected:** URL contains `checkout-step-one`, confirming the checkout flow has begun
+- **Expected:** URL contains `checkout-step-one`, confirming the checkout page loads
+- **Note:** This test covers navigation to checkout only — form filling and order confirmation are out of scope for this task
 
 ---
 
