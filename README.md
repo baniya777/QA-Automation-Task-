@@ -1,9 +1,9 @@
 # QA Automation Task 
-![Framework](https://img.shields.io/badge/Framework-Selenium-43B02A?style=flat&logo=selenium)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python)
-![Runner](https://img.shields.io/badge/Test%20Runner-PyTest-0A9EDC?style=flat&logo=pytest)
-![Pattern](https://img.shields.io/badge/Pattern-Page%20Object%20Model-blueviolet?style=flat)
-![Status](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat)
+![Framework](https://img.shields.io/badge/Framework-Selenium-3d8b37?style=flat&logo=selenium)
+![Language](https://img.shields.io/badge/Language-Python-2b5b84?style=flat&logo=python)
+![Runner](https://img.shields.io/badge/Test%20Runner-PyTest-0073a1?style=flat&logo=pytest)
+![Pattern](https://img.shields.io/badge/Pattern-Page%20Object%20Model-5a4b8c?style=flat)
+![Status](https://img.shields.io/badge/Tests-Passing-2d7a2d?style=flat)
 
 An automated test suite built with **Selenium WebDriver** and **Python** to validate the core functionality of [Saucedemo](https://www.saucedemo.com/) — a public demo e-commerce site commonly used for QA practice. This project was created as part of a QA Automation candidate task and follows industry-standard practices including the **Page Object Model (POM)** design pattern.
 
